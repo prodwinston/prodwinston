@@ -39,31 +39,42 @@
 
 </div>
 
-## Активные проекты
+## Технический блог
 
 <div align="center">
 
-### [Modern Dashboard](https://github.com/prodwinston/modern-dashboard)
-Управление проектами с аналитикой в реальном времени
+### [Современные паттерны React](https://blog.prodwinston.dev/react-patterns)
+Анализ современных подходов к разработке на React
 
-### [API Gateway](https://github.com/prodwinston/api-gateway) 
-Микросервисная архитектура с TypeScript
+### [TypeScript в продакшене](https://blog.prodwinston.dev/typescript-production)
+Лучшие практики для больших проектов
 
-### [UI Component Library](https://github.com/prodwinston/ui-library)
-Переиспользуемые React компоненты
+### [Архитектура фронтенда](https://blog.prodwinston.dev/frontend-architecture)
+Масштабируемые подходы к организации кода
 
 </div>
 
-## Контакты
+## Контрибуции
 
-- **Email:** hello@prodwinston.dev
-- **LinkedIn:** [prodwinston](https://linkedin.com/in/prodwinston)
-- **Website:** [prodwinston.dev](https://prodwinston.dev)
+<div align="center">
+
+![Контрибуции](https://github-readme-activity-graph.vercel.app/graph?username=prodwinston&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true)
+
+</div>
+
+## Сертификаты и курсы
+
+- **Advanced TypeScript** - Frontend Masters
+- **React Performance** - Kent C. Dodds
+- **System Design** - Alex Xu
+- **Modern Backend Development** - Google Cloud
 
 ---
 
 <div align="center">
 
-*Чистый код решает сложные проблемы*
+**Чистый код решает сложные проблемы**
+
+[![Visitors](https://komarev.com/ghpvc/?username=prodwinston&color=000000&style=flat-square)](https://github.com/prodwinston)
 
 </div>
