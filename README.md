@@ -81,27 +81,3 @@
 ### • [Python асинхронное программирование](https://blog.prodwinston.dev/async-python)
 
 </div>
-
-## Достижения
-
-<div align="center">
-
-![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=white)
-![HackerRank](https://img.shields.io/badge/HackerRank-000000?style=for-the-badge&logo=hackerrank&logoColor=white)
-![Codewars](https://img.shields.io/badge/Codewars-000000?style=for-the-badge&logo=codewars&logoColor=white)
-
-**Top 5%** в соревнованиях по алгоритмам  
-**3+ года** коммерческой разработки  
-**50+** завершенных проектов
-
-</div>
-
----
-
-<div align="center">
-
-**Разрабатываю современные цифровые решения**
-
-![Visitors](https://komarev.com/ghpvc/?username=prodwinston&color=000000&style=flat-square)
-
-</div>
